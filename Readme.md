@@ -1,5 +1,7 @@
 # NEP assignment
 
+![AWS HA web application](https://github.com/simontakite/nep_assignment/raw/main/aws-ha-web-infra.png)
+
 This demo includes a two-tier highly available architecture in AWS with 
 public and private subnets. The application layer includes webservers placed in a private subnets
 to ensure that they are not directly accessible from the internet. A bastion
